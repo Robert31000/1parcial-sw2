@@ -2,34 +2,34 @@
 //** COLORS
 //************************
 
-$primary: #25A28C;
-$primary-75: #5CBAA9;
-$primary-50: #92D1C5;
-$primary-25: #C9E8E2;
-$primary-10: #E9F6F3;
+$primary: #7C3AED;
+$primary-75: #A78BFA;
+$primary-50: #C4B5FD;
+$primary-25: #DDD6FE;
+$primary-10: #EDE9FE;
 
-$secondary: #A7CB23;
-$secondary-75: #BDD65A;
-$secondary-50: #D3E391;
-$secondary-25: #E9F1C8;
+$secondary: #E11D48;
+$secondary-75: #FB7185;
+$secondary-50: #FDA4AF;
+$secondary-25: #FFE4E6;
 
-$tertiary: #C6C6D4;
+$tertiary: #D4D4D8;
 
-$red:  #FF6363;
-$red-25: #FFA5A5;
-$red-10: #FFE7E7;
+$red:  #DC2626;
+$red-25: #FCA5A5;
+$red-10: #FEE2E2;
 
-$grey-02: #F9F9FB;
-$grey-05: #F1F1F4;
-$grey-10: #E2E3E9;
-$grey-20: #C6C6D4;
-$grey-30: #A9AABC;
-$grey-40: #8D8EA5;
-$grey-50: #70728F;
-$grey-60: #5A5B72;
-$grey-70: #434456;
-$grey-80: #2D2D39;
-$grey-90: #16171D;
+$grey-02: #FAFAF9;
+$grey-05: #F5F5F4;
+$grey-10: #E7E5E4;
+$grey-20: #D6D3D1;
+$grey-30: #A8A29E;
+$grey-40: #78716C;
+$grey-50: #57534E;
+$grey-60: #44403C;
+$grey-70: #292524;
+$grey-80: #1C1917;
+$grey-90: #0C0A09;
 
 
 // Color aliases for retrocompatibility
@@ -41,7 +41,7 @@ $gray-light: $grey-50;
 $gray-lighter: $grey-30;
 $whitish: $grey-10;
 $mass-white: $grey-05;
-$white: #fff;
+$white: #FFFFFF;
 
 // Primary colors
 $primary-light: $primary-75;
@@ -51,53 +51,53 @@ $primary-background: $primary-25;
 
 // Secondary colors
 $secondary-light: $secondary-50;
-$secondary-dark: #91B011;
+$secondary-dark: #BE123C;
 
 //Status colors
-$green-light: #D1DFC5;
+$green-light: #DCFCE7;
 $red-light: lighten($red, 12%);
-$my-sin: #fcaf3e;
-$yellow-green: #9dce0a;
+$my-sin: #F59E0B;
+$yellow-green: #65A30D;
 
 //Card color
-$card: #fff8e4;
-$card-hover: #f1e8cd;
-$card-dark: #cfc29b;
+$card: #FDF2F8;
+$card-hover: #FCE7F3;
+$card-dark: #FBCFE8;
 
-$tribe-primary: #107a8a;
+$tribe-primary: #6D28D9;
 $tribe-secondary: darken($tribe-primary, 10%);
 
-$top-icon-color: #11241f;
+$top-icon-color: #111827;
 $dropdown-color: rgba(darken($grayer, 20%), 1);
-$code-bg: #272822;
+$code-bg: #1F1B24;
 
-$highlight: #E5F390;
+$highlight: #FEF3C7;
 
 // TAIGA 6
 
 // Primary colors
-$color-solid-primary: #83EEDE;
-$color-link-primary: #008AA8;
-$color-link-tertiary: #70728F;
+$color-solid-primary: #EDE9FE;
+$color-link-primary: #7C3AED;
+$color-link-tertiary: #57534E;
 
 // Grayscale
-$color-gray100: #F9F9FB;
-$color-gray200: #ECEFF4;
-$color-gray300: #E5E9F0;
-$color-gray400: #D8DEE9;
-$color-gray800: #505C74;
+$color-gray100: #FAFAF9;
+$color-gray200: #E7E5E4;
+$color-gray300: #D6D3D1;
+$color-gray400: #A8A29E;
+$color-gray800: #292524;
 
-$color-black600: #4C566A;
-$color-black700: #434C5E;
-$color-black800: #3B4252;
-$color-black900: #2E3440;
+$color-black600: #57534E;
+$color-black700: #44403C;
+$color-black800: #292524;
+$color-black900: #1C1917;
 
 // State colors
-$color-link-red: #E44057;
-$color-link-orange: #EA7B4B;
-$color-link-yellow: #F6C95C;
-$color-link-green: #93C45D;
-$color-link-purple: #CA81BE;
+$color-link-red: #DC2626;
+$color-link-orange: #EA580C;
+$color-link-yellow: #EAB308;
+$color-link-green: #16A34A;
+$color-link-purple: #9333EA;
 
 // State colors
 $color-solid-red: rgba($color-link-red, .25);
@@ -110,11 +110,11 @@ $color-white: #FFFFFF;
 $color-black: #000000;
 
 //Helpers
-$default-tags: #A9AABC;
+$default-tags: #A8A29E;
 
 //Loading colors
-$loading-color-1: #a8e440;
-$loading-color-2: #e4ce40;
-$loading-color-3: #e47c40;
-$loading-color-4: #e44057;
-$loading-color-5: #4056e4;
+$loading-color-1: #F472B6;
+$loading-color-2: #F59E0B;
+$loading-color-3: #84CC16;
+$loading-color-4: #22D3EE;
+$loading-color-5: #A78BFA;

@@ -323,8 +323,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Login - Taiga",
-        "PAGE_DESCRIPTION": "Inicia sesión en Taiga, una plataforma de gestión de proyectos orientada a startups y equipos ágiles que buscan una herramienta sencilla, elegante y que les haga disfrutar trabajando."
+        "PAGE_TITLE": "Login - sw2",
+        "PAGE_DESCRIPTION": "Inicia sesión, una plataforma de gestión de proyectos orientada a startups y equipos ágiles que buscan una herramienta sencilla, elegante y que les haga disfrutar trabajando."
     },
     "AUTH": {
         "INVITED_YOU": "te ha invitado a unirte al proyecto",
@@ -333,7 +333,7 @@
         "CREATE_ACCOUNT": "crea tu cuenta gratis aquí"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Ya tengo una cuenta en Taiga",
+        "HEADER": "Ya tengo una cuenta",
         "PLACEHOLDER_AUTH_NAME": "Nombre de usuario o correo electrónico (distingue mayúsculas y minúsculas)",
         "LINK_FORGOT_PASSWORD": "¿La olvidaste?",
         "TITLE_LINK_FORGOT_PASSWORD": "¿Olvidó su contraseña?",
@@ -343,15 +343,15 @@
         "ALT_LOGIN": "O haz login con"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "La Taiga indica que tu nombre de usuario/correo o contraseña son incorrectos.",
-        "SUCCESS": "Bienvenido a Taiga."
+        "ERROR_AUTH_INCORRECT": " indica que tu nombre de usuario/correo o contraseña son incorrectos.",
+        "SUCCESS": "Bienvenido ."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Registro - Taiga",
-        "PAGE_DESCRIPTION": "Crea tu cuenta en Taiga, una plataforma de gestión de proyectos orientada a startups y equipos ágiles que buscan una herramienta sencilla, elegante y que les haga disfrutar trabajando."
+        "PAGE_TITLE": "Registro ",
+        "PAGE_DESCRIPTION": "Crea tu cuenta, una plataforma de gestión de proyectos orientada a startups y equipos ágiles que buscan una herramienta sencilla, elegante y que les haga disfrutar trabajando."
     },
     "REGISTER_FORM": {
-        "TITLE": "Crea tu nueva cuenta en Taiga, ¡es gratis!",
+        "TITLE": "Crea tu nueva cuenta , ¡es gratis!",
         "PLACEHOLDER_NAME": "Elige un nombre de usuario",
         "PLACEHOLDER_FULL_NAME": "Escribe tu nombre completo",
         "PLACEHOLDER_EMAIL": "Tu email",
@@ -361,7 +361,7 @@
         "LINK_LOGIN": "¿Ya te has registrado? Inicia sesión"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Has olvidado tu contraseña - Taiga",
+        "PAGE_TITLE": "Has olvidado tu contraseña ",
         "PAGE_DESCRIPTION": "A partir de tu nombre de usuario o email obtendrás una nueva contraseña para acceder a Taiga nuevamente."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -386,7 +386,7 @@
         "ERROR_PASSWORD_MATCH": "Las contraseñas no coinciden"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "Crear una nueva contraseña de Taiga",
+        "TITLE": "Crear una nueva contraseña ",
         "SUBTITLE": "Y bueno, es posible que necesites comer más alimentos ricos en hierro, son buenos para tu cerebro :P",
         "PLACEHOLDER_NEW_PASSWORD": "Nueva contraseña",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Reescriba la nueva contraseña",
@@ -402,9 +402,9 @@
         "SUCCESS": "¡Acabas de unirte al proyecto! Bienvenido a {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Inicio - Taiga",
-        "PAGE_DESCRIPTION": "Página de inicio de Taiga, con tus proyectos principales y tus historias de usuario, tareas y peticiones en progreso asignadas y las que observas.",
-        "EMPTY_WORKING_ON": "<strong>Parece vacío, ¿no?</strong> Empieza a trabajar con Taiga y verás aquí las historias, tareas e incidentes en los que estás trabajando.",
+        "PAGE_TITLE": "Inicio",
+        "PAGE_DESCRIPTION": "Página de inicio, con tus proyectos principales y tus historias de usuario, tareas y peticiones en progreso asignadas y las que observas.",
+        "EMPTY_WORKING_ON": "<strong>Parece vacío, ¿no?</strong> Empieza a trabajar y verás aquí las historias, tareas e incidentes en los que estás trabajando.",
         "EMPTY_WATCHING": "<strong>Sigue</strong> historias de usuario, tareas y peticiones en tus proyectos y se te notificará sobre sus cambios :)",
         "EMPTY_PROJECT_LIST": "Aún no tienes ningún proyecto",
         "WORKING_ON_SECTION": "Trabajando en",
@@ -454,7 +454,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Mis proyectos - Taiga",
+        "PAGE_TITLE": "Mis proyectos",
         "PAGE_DESCRIPTION": "Una lista con todos tus proyectos, puedes reordenarla o crear un proyecto nuevo.",
         "MY_PROJECTS": "Mis proyectos"
     },
@@ -513,8 +513,8 @@
             "LOADING_MESSAGE": "Por favor no cierres la ventana.",
             "ASYNC_MESSAGE": "Te enviaremos un email cuando esté listo.",
             "SYNC_MESSAGE": "Si la descarga no comienza automáticamente haz click <a href='{{url}}' download title='Descargar el fichero con el volcado de datos'>aquí</a>.",
-            "ERROR": "La Taiga tiene algunos problemas al generar el volcado de tus datos. Por favor, inténtalo de nuevo.",
-            "ERROR_BUSY": "Lo sentimos, la Taiga está muy ocupada en este momento. Por favor, inténtalo de nuevo en unos minutos."
+            "ERROR": "tiene algunos problemas al generar el volcado de tus datos. Por favor, inténtalo de nuevo.",
+            "ERROR_BUSY": "Lo sentimos, está muy ocupada en este momento. Por favor, inténtalo de nuevo en unos minutos."
         },
         "MODULES": {
             "TITLE": "Módulos",
@@ -530,7 +530,7 @@
             "KANBAN_DESCRIPTION": "Organiza tus proyectos de una manera flexible con este panel.",
             "ISSUES": "Peticiones",
             "ISSUES_DESCRIPTION": "Haz seguimiento de los bugs, preguntas y peticiones de mejoras relacionadas con tu proyecto. ¡No te pierdas nada!",
-            "WIKI": "Wiki",
+            "WIKI": "documentar",
             "WIKI_DESCRIPTION": "Añade, modifica o borra contenido en colaboración con otros miembros. Este es el lugar adecuado para la documentación de tu proyecto.",
             "MEETUP": "Meet Up",
             "MEETUP_DESCRIPTION": "Elegir su sistema de videoconferencia.",
@@ -921,7 +921,7 @@
             "BACKLOG": "Backlog",
             "KANBAN": "Kanban",
             "ISSUES": "Peticiones",
-            "WIKI": "Wiki",
+            "WIKI": "Documentar",
             "TEAM": "Equipo",
             "MEETUP": "Meetup",
             "SETTINGS": "Configuraciones",
@@ -939,8 +939,8 @@
             "TITLE_CREATE_PROJECT": "Crear proyecto",
             "HELP_TITLE": "Ayuda",
             "HOMEPAGE": "Página de inicio",
-            "TAIGA_RESOURCES_TITLE": "Visita Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "TAIGA_RESOURCES_TITLE": "Visita resources",
+            "TAIGA_RESOURCES": " Resources",
             "FEEDBACK_TITLE": "Envíanos tus comentarios",
             "FEEDBACK": "Escribe tu pregunta",
             "NOTIFICATIONS_TITLE": "Edita la configuración de tus notificaciones",
@@ -954,8 +954,8 @@
             "DASHBOARD_TITLE": "Dashboard",
             "DISCOVER_TITLE": "Descubre los proyectos más relevantes",
             "DISCOVER": "Descubrir",
-            "TAIGA_COMMUNITY_TITLE": "Ir a la Comunidad de Taiga",
-            "TAIGA_COMMUNITY": "Comunidad Taiga"
+            "TAIGA_COMMUNITY_TITLE": "Ir a la Comunidad ",
+            "TAIGA_COMMUNITY": "Comunidad "
         },
         "LIKE_BUTTON": {
             "LIKE": "Me gusta",
@@ -994,7 +994,7 @@
             "DUPLICATE": "Duplicar proyecto",
             "DUPLICATE_DESC": "Empieza un nuevo proyecto manteniendo tu configuración",
             "IMPORT": "Importar proyecto",
-            "IMPORT_DESC": "Importa tu proyecto desde múltiples plataformas a Taiga",
+            "IMPORT_DESC": "Importa tu proyecto desde múltiples plataformas a ",
             "INVITE": "Invitar al proyecto",
             "SOLO_PROJECT": "Estarás solo en este proyecto",
             "INVITE_LATER": "(Podrás invitar otros miembros más adelante)",
@@ -1022,17 +1022,17 @@
             "UPLOAD_IN_PROGRESS_MESSAGE": "Subidos {{uploadedSize}} de {{totalSize}}",
             "ERROR": "La Taiga tiene problemas para importar tus datos. Por favor, inténtalo de nuevo.",
             "ERROR_TOO_MANY_REQUEST": "Lo sentimos, la Taiga está muy ocupada en este momento. Por favor, inténtalo de nuevo en unos minutos.",
-            "ERROR_MESSAGE": "La Taiga tiene algunos problemas al importar tus datos: {{error_message}}",
+            "ERROR_MESSAGE": " tiene algunos problemas al importar tus datos: {{error_message}}",
             "ERROR_MAX_SIZE_EXCEEDED": "El fichero '{{fileName}}' ({{fileSize}}) es demasiado pesado para la Taiga, prueba con uno de menos de ({{maxFileSize}}).",
             "SYNC_SUCCESS": "Tu proyecto se ha importado con éxito.",
             "IMPORT": "Importar",
             "WHO_IS": "Sus tareas serán asignadas a...",
-            "WRITE_EMAIL": "O si tu quieres, escribe el email que este usuario usa en Taiga",
+            "WRITE_EMAIL": "O si tu quieres, escribe el email que este usuario usa en ",
             "SEARCH_CONTACT": "O si quieres, busca en tus contactos",
-            "WRITE_EMAIL_LABEL": "Escribe el email que este usuario usa en Taiga",
+            "WRITE_EMAIL_LABEL": "Escribe el email que este usuario usa en ",
             "ACCEEDE": "Acceder",
             "PROJECT_MEMBERS": "Miembros del proyecto",
-            "PROCESS_DESCRIPTION": "Dinos a que usuario de Taiga le quieres asignar las tareas de {{platform}}",
+            "PROCESS_DESCRIPTION": "Dinos a que usuario de  le quieres asignar las tareas de {{platform}}",
             "MATCH": "¿<strong>{{user_external}}</strong> y <strong>{{user_internal}}</strong> son la misma persona?",
             "CHOOSE": "Selecciona un usuario",
             "LINKS": "Enlaces con {{platform}}",
@@ -1081,10 +1081,10 @@
                 "CHECK": "Verificar contactos"
             },
             "TAIGA": {
-                "SELECTOR": "Importa tu proyecto de Taiga"
+                "SELECTOR": "Importa tu proyecto"
             },
             "TRELLO": {
-                "SELECTOR": "Importa tus tableros de Trello en Taiga",
+                "SELECTOR": "Importa tus tableros de Trello",
                 "CHOOSE_PROJECT": "Elige el tablero que quieres importar",
                 "NO_PROJECTS": "Parece que no tienes tableros en Trello"
             },
@@ -1092,7 +1092,7 @@
                 "SELECTOR": "Importa tus peticiones de proyecto de GitHub",
                 "CHOOSE_PROJECT": "Encuentra el proyecto que quieres importar",
                 "NO_PROJECTS": "Parece que no tienes proyectos en GitHub",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "¿Cómo quieres importar las peticiones en Taiga?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "¿Cómo quieres importar las peticiones ?",
                 "KANBAN_PROJECT": "Como historias de usuario en un proyecto kanban",
                 "KANBAN_PROJECT_DESCRIPTION": "ll",
                 "SCRUM_PROJECT": "Como historias de usuario en un proyecto scrum",
@@ -1131,7 +1131,7 @@
             "CONFIRMATION": "Sí, envíenme noticias, actualizaciones de productos y recomendaciones sobre Taiga.",
             "NO_SHARE": "Su privacidad nos importa (consulte nuestra <a href=\"https://www.taiga.io/privacy-policy\" title=\"Go to privacy policy\" target=\"_blank\">política de privacidad</a>).",
             "OPT_OUT": "Lo haremos solo le enviaremos correos electrónicos relevantes (<6 por año). Puede darse de baja en cualquier momento enviando un correo electrónico a <a href=\"mailto:support@taiga.io\" target=\"_blank\">support@taiga.io</a> con el asunto \"cancelar suscripción\" o a través del enlace en uno de nuestros boletines.",
-            "LIGHTBOX_TITLE": "¿Quieres recibir anuncios sobre Taiga?",
+            "LIGHTBOX_TITLE": "¿Quieres recibir anuncios?",
             "DONT_ASK": "No vuelvas a preguntar",
             "SUBSCRIBE": "Suscríbete",
             "NOTIFY_EXPLANATION": "Le enviaremos noticias, actualizaciones de productos y recomendaciones sobre Taiga.",
@@ -1140,7 +1140,7 @@
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "¿Está seguro que deseas eliminar tu cuenta de Taiga?",
+            "CONFIRM": "¿Está seguro que deseas eliminar tu cuenta?",
             "CANCEL": "Volver a los ajustes",
             "ACCEPT": "Eliminar cuenta",
             "BLOCK_PROJECT": "Recuerde que todos los proyectos sobre los que posees la propiedad serán <strong>bloqueados</strong> después de eliminar tu cuenta. Si no desea que un proyecto quede bloqueado, transfiere la propiedad de cada uno a otro usuario de Taiga antes de eliminar tu cuenta."
@@ -1148,7 +1148,7 @@
         "DELETE_PROJECT": {
             "TITLE": "Borrar proyecto",
             "QUESTION": "¿Esta seguro que decea eliminar este proyecto?",
-            "SUBTITLE": "Todos los datos del proyecto (historias de usuario, tareas, peticiones, sprints y páginas del wiki) se perderán :-(",
+            "SUBTITLE": "Todos los datos del proyecto (historias de usuario, tareas, peticiones, sprints y páginas ) se perderán :-(",
             "CONFIRM": "Si, Estoy realmente seguro"
         },
         "ASSIGNED_TO": {
@@ -1171,12 +1171,12 @@
             "HELP_TEXT": "Si los usuarios ya están registrado en Taiga, se añadirán automáticamente. De lo contrario recibirán una invitación."
         },
         "FEEDBACK": {
-            "TITLE": "Soporte Taiga",
+            "TITLE": "Soporte ",
             "COMMENT": "Déjanos un mensaje",
             "ACTION_SEND": "Enviar el mensaje",
             "YOU_CAN_ALSO": "Puedes también:",
             "CREATE": "Crear una petición en este",
-            "PUBLIC": "proyecto público de Taiga",
+            "PUBLIC": "proyecto público de ",
             "EMAIL": "Enviarnos un e-mail a",
             "SUPPORT": "support@taiga.io",
             "FAQ": "Preguntas más frecuentes",
@@ -1344,13 +1344,13 @@
         "RELATE_TO_EPIC": "Enlace a épica",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Quitar relación con épica",
         "TRIBE": {
-            "PUBLISH": "Publicar como Gig en la Tribu Taiga",
+            "PUBLISH": "Publicar como Gig en la Tribu ",
             "PUBLISH_INFO": "Mas información",
-            "PUBLISH_TITLE": "Mas informacion para publicar en la Tribu Taiga",
-            "PUBLISHED_AS_GIG": "Historia publicada como Gig en la Tribu Taiga",
+            "PUBLISH_TITLE": "Mas informacion para publicar en la Tribu ",
+            "PUBLISHED_AS_GIG": "Historia publicada como Gig en la Tribu ",
             "EDIT_LINK": "Editar link",
             "CLOSE": "Cerrar",
-            "SYNCHRONIZE_LINK": "sincronizar con la Tribu Taiga",
+            "SYNCHRONIZE_LINK": "sincronizar con la Tribu ",
             "PUBLISH_MORE_INFO_TITLE": "Necesita a alguien para esta tarea?",
             "PUBLISH_MORE_INFO_TEXT": "<p> Si necesitas ayuda con una tarea en particular, puedes crear 'gigs' en <a href='http://taigatribe.com' title='Taiga Tribe'>Taiga Tribe</a> y recibir ayuda de todo el mundo. Podrás controlar y gestionar el 'gig' disfrutando de una gran comunidad deseosa de contribuir.</ p> <p> <a href='http://taigatribe.com' title='Taiga Tribe'>TaigaTribe</a> es el hermano ideal de Taiga. Ambas plataformas pueden vivir separadamente pero creemos que hay mucho poder en usarlas combinadas, por lo que estamos asegurándonos de que la integración entre ambas funcione como un tiro.</p>"
         }
@@ -1496,12 +1496,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Algo no va bien, y la Taiga ha capturado el error para verlo con detenimiento.",
+        "TEXT1": "Algo no va bien, y  ha capturado el error para verlo con detenimiento.",
         "NOT_FOUND": "No encontrado",
         "NOT_FOUND_TEXT": "Error 404. La página que estás buscando ya no existe. Puedes volver a la página de inicio de TAIGA y ver si encuentras lo que estás buscando. ",
         "PERMISSION_DENIED": "Permiso denegado",
         "PERMISSION_DENIED_TEXT": "No tienes permisos para acceder a esta página.",
-        "VERSION_ERROR": "Algún otro usuario de Taiga se te ha adelantado y ha actualizado esto, y no se pueden aplicar tus cambios. Por favor, recarga la página y aplícalos de nuevo o se perderán."
+        "VERSION_ERROR": "Algún otro usuario se te ha adelantado y ha actualizado esto, y no se pueden aplicar tus cambios. Por favor, recarga la página y aplícalos de nuevo o se perderán."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Sprint - {{projectName}}",
@@ -1572,16 +1572,16 @@
         "OK": "¡Todo Ok!",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "¡Tus cambios no han sido guardados!",
-        "SAVED": "¡La Taiga ha guardado todos tus cambios!",
+        "SAVED": " ha guardado todos tus cambios!",
         "CLOSE": "Cerrar notificación",
         "MAIL": "Actividad",
         "DESKTOP": "Notificaciones de escritorio usando alertas de navegador",
         "ASK_DELETE": "¿Esta seguro que desea eliminar?",
-        "COMMUNICATION": "Comunicaciones de Taiga"
+        "COMMUNICATION": "Comunicaciones"
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Cancelar tu cuenta de usuario",
-        "SUBTITLE": "Sentimos mucho que abandones la Taiga, esperamos que hayas disfrutado de tu estancia :)",
+        "SUBTITLE": "Sentimos mucho que abandones, esperamos que hayas disfrutado de tu estancia :)",
         "PLACEHOLDER_INPUT_TOKEN": "token de cancelación de cuenta",
         "ACTION_LEAVING": "¡Sí, me largo!",
         "SUCCESS": "La Taiga ha eliminado tu cuenta"
@@ -1767,17 +1767,17 @@
         }
     },
     "WIKI": {
-        "PAGE_TITLE": "{{wikiPageName}} - Wiki - {{projectName}}",
+        "PAGE_TITLE": "{{wikiPageName}} -  - {{projectName}}",
         "PAGE_DESCRIPTION": "última edición el {{lastModifiedDate}} ({{totalEditions}} ediciones en total) Contenido: {{ wikiPageContent }}",
         "DATETIME": "DD MMM YYYY HH:mm",
-        "REMOVE": "Eliminar esta página del wiki",
-        "DELETE_LIGHTBOX_TITLE": "Eliminar Página del Wiki",
-        "DELETE_LINK_TITLE": "Eliminar enlace de la Wiki",
+        "REMOVE": "Eliminar esta página de la documentacion",
+        "DELETE_LIGHTBOX_TITLE": "Eliminar Página del documento",
+        "DELETE_LINK_TITLE": "Eliminar enlace de la documentacion",
         "NAVIGATION": {
             "HOME": "Principal",
             "SECTION_NAME": "MARCADORES",
             "ACTION_ADD_LINK": "Añadir marcador",
-            "ALL_PAGES": "Todas las páginas de la wiki"
+            "ALL_PAGES": "Todas las páginas de la documentacion"
         },
         "SUMMARY": {
             "TIMES_EDITED": "veces <br />editada",
@@ -1828,7 +1828,7 @@
         "TASK_UPDATED_WITH_NEW_VALUE": "{{username}} ha actualizado el atributo \"{{field_name}}\" de la tarea {{obj_name}} a {{new_value}}",
         "TASK_UPDATED_WITH_US": "{{username}} ha actualizado el atributo \"{{field_name}}\" de la tarea {{obj_name}} que proviene de la historia de usuario {{us_name}}",
         "TASK_UPDATED_WITH_US_NEW_VALUE": "{{username}} ha actualizado el atributo \"{{field_name}}\" de la tarea {{obj_name}} que pertenece a la historia de usuario {{us_name}} a {{new_value}}",
-        "WIKI_UPDATED": "{{username}} ha actualizado la página del wiki {{obj_name}}",
+        "WIKI_UPDATED": "{{username}} ha actualizado la página de la documentacion {{obj_name}}",
         "EPIC_UPDATED": "{{username}} ha actualizado el atributo \"{{field_name}}\" de la épica {{obj_name}}",
         "EPIC_UPDATED_WITH_NEW_VALUE": "{{username}} ha actualizado el atrubuto \"{{field_name}}\" de la épica {{obj_name}} a {{new_value}}",
         "EPIC_UPDATED_WITH_NEW_COLOR": "{{username}} ha actualizado el atributo \"{{field_name}}\" de la épica {{obj_name}} a <span class=\"new-color\" style=\"background: {{new_value}}\"></span>",
@@ -1842,7 +1842,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} ha añadido la historia de usuario {{obj_name}} al backlog",
         "BLOCKED": "{{username}} ha bloqueado {{obj_name}}",
         "UNBLOCKED": "{{username}} ha desbloqueado {{obj_name}}",
-        "NEW_USER": "{{username}} se ha unido a Taiga",
+        "NEW_USER": "{{username}} se ha unido a ",
         "ITEM_TYPES": {
             "USERSTORY": "Historia de usuario",
             "ISSUE": "Petición",
@@ -1869,7 +1869,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Una aplicación externa requiere autenticación",
         "PAGE_DESCRIPTION": "Una aplicación externa requiere autenticación",
-        "AUTHORIZATION_REQUEST": "¿Autoriza {{aplicación}} para que utilice tu cuenta de Taiga?",
+        "AUTHORIZATION_REQUEST": "¿Autoriza {{aplicación}} para que utilice tu cuenta ?",
         "LOGIN_WITH_ANOTHER_USER": "Ingresar con otro usuario",
         "AUTHORIZE_APP": "Autorizar aplicación",
         "CANCEL": "Cancelar"
@@ -1893,11 +1893,11 @@
             "STEP3": {
                 "TITLE": "Observando",
                 "TEXT1": "Y aquí encontraras aquellas de tus proyectos sobre las que quieres estar informado.",
-                "TEXT2": "Ya estás trabajando con Taiga ;)"
+                "TEXT2": "Ya estás trabajando )"
             },
             "STEP4": {
                 "TITLE": "Comencemos",
-                "TEXT1": "Puedes comenzar creando tu primer proyecto en Taiga",
+                "TEXT1": "Puedes comenzar creando tu primer proyecto ",
                 "TEXT2": "Buena suerte!"
             }
         },
@@ -1937,8 +1937,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Descubre proyectos - Taiga",
-        "PAGE_DESCRIPTION": "Directorio de búsqueda de Proyectos Públicos en Taiga. Explora los backlogs, timelines, peticiones y equipos. Echa un vistazo a los proyectos que más gustan o más activos. Filtrar por Kanban o Scrum.",
+        "PAGE_TITLE": "Descubre proyectos",
+        "PAGE_DESCRIPTION": "Directorio de búsqueda de Proyectos Públicos . Explora los backlogs, timelines, peticiones y equipos. Echa un vistazo a los proyectos que más gustan o más activos. Filtrar por Kanban o Scrum.",
         "DISCOVER_TITLE": "Descubre proyectos",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{Un proyecto público por descubrir} other{# proyectos público por descubrir}}",
         "MOST_ACTIVE": "Más activos",
@@ -1960,8 +1960,8 @@
             "CLEAR": "Borrar filtros"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Buscar - Descubre proyectos - Taiga",
-            "PAGE_DESCRIPTION": "Directorio de búsqueda de Proyectos Públicos en Taiga. Explora los backlogs, timelines, peticiones y equipos. Echa un vistazo a los proyectos que más  gustan o más activos. Filtrar por Kanban o Scrum.",
+            "PAGE_TITLE": "Buscar - Descubre proyectos ",
+            "PAGE_DESCRIPTION": "Directorio de búsqueda de Proyectos Públicos . Explora los backlogs, timelines, peticiones y equipos. Echa un vistazo a los proyectos que más  gustan o más activos. Filtrar por Kanban o Scrum.",
             "INPUT_PLACEHOLDER": "Escribe algo...",
             "ACTION_TITLE": "Buscar",
             "RESULTS": "Resultados de búsqueda"
